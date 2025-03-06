@@ -1,4 +1,4 @@
-"use client"; // Required for React hooks in Next.js App Router
+"use client"; 
 
 import { useEffect, useState } from "react";
 import Link from "next/link";
