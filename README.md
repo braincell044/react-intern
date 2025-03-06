@@ -13,10 +13,12 @@ A Next.js mini-project for a frontend developer internship.
 2. Install dependencies: `npm install`
 3. Run the app: `npm run dev`
 
-## Deployment
-Deployed on Vercel: [Live Demo](<vercel-url>)
 
-## Tech Stack
+
+## Deployment
+Deployed on Vercel: [Live Demo](https://react-intern-o57x.vercel.app/)
+
+##Tech Stack
 - Next.js (React)
 - Tailwind CSS
 - Zustand
