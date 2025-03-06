@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "title": "Frontend Developer",
+      "company": "Tech Corp",
+      "location": "Remote",
+      "salary": "$70,000 - $90,000",
+      "requiredSkills": ["React", "Next.js", "JavaScript", "Tailwind CSS"],
+      "matchScore": 85
+    },
+    {
+      "id": 2,
+      "title": "UI Engineer",
+      "company": "DesignPro",
+      "location": "New York, USA",
+      "salary": "$80,000 - $100,000",
+      "requiredSkills": ["Figma", "React", "CSS"],
+      "matchScore": 70
+    },
+    {
+      "id": 3,
+      "title": "Full-Stack Developer",
+      "company": "InnovateX",
+      "location": "San Francisco, USA",
+      "salary": "$90,000 - $120,000",
+      "requiredSkills": ["Node.js", "Express", "MongoDB", "React"],
+      "matchScore": 65
+    },
+    {
+      "id": 4,
+      "title": "Backend Engineer",
+      "company": "CloudNet",
+      "location": "Austin, USA",
+      "salary": "$85,000 - $110,000",
+      "requiredSkills": ["Node.js", "GraphQL", "PostgreSQL"],
+      "matchScore": 80
+    },
+    {
+      "id": 5,
+      "title": "Software Engineer",
+      "company": "DevSolutions",
+      "location": "Seattle, USA",
+      "salary": "$75,000 - $95,000",
+      "requiredSkills": ["Python", "Django", "AWS"],
+      "matchScore": 60
+    }
+  ]
+  
